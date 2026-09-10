@@ -1,1 +1,1 @@
-This is a drum kit made using vanilla javascript.
+This is a simple drum kit created using vanilla javascript.
